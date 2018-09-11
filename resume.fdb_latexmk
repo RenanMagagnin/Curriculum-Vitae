@@ -1,5 +1,5 @@
 # Fdb version 3
-["lualatex"] 1536088101 "resume.tex" "resume.pdf" "resume" 1536088109
+["lualatex"] 1536625556 "resume.tex" "resume.pdf" "resume" 1536625562
   "/Users/renanmagagnin/Library/texlive/2017/texmf-var/luatex-cache/generic/fonts/otl/fontawesome.luc" 1536080728 65938 7c5b8b45824578962947fd4302e8da29 ""
   "/Users/renanmagagnin/Library/texlive/2017/texmf-var/luatex-cache/generic/fonts/otl/latinmodern-math.luc" 1536080736 623610 fdbdbd6ba763a3a4b0eb544dcdb8964f ""
   "/Users/renanmagagnin/Library/texlive/2017/texmf-var/luatex-cache/generic/fonts/otl/lmroman10-bold.luc" 1536080727 136017 91737a8c44536c48ec33e5f72e90bd8d ""
@@ -127,16 +127,16 @@
   "/usr/local/texlive/2017/texmf-var/web2c/luatex/lualatex.fmt" 1495593495 1296734 6ad9d8dcfd29495873ea1b88c398f93b ""
   "awesome-cv.cls" 1533573890 23235 f21b8be3741278b1b12984c98e39e11c ""
   "fontawesome.sty" 1533573890 84047 355f16a7bd7ed1782c4e1f3a0b78b931 ""
-  "resume.aux" 1536088107 662 b2b94621371df8d9296b8bf5bec1b851 ""
-  "resume.out" 1536088105 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "resume.tex" 1536085560 2710 78b6bdfe8dbf5686752e95eb910f3dc1 ""
+  "resume.aux" 1536625561 662 b2b94621371df8d9296b8bf5bec1b851 ""
+  "resume.out" 1536625560 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "resume.tex" 1536625551 2710 c764d0754bb96bec4eb6f8fc445d8df3 ""
   "resume/education.tex" 1536086659 546 948d6da07fedd7af1ff2248a4fc55d7d ""
   "resume/experience.tex" 1536082344 812 3687ef250016e67792c3cd92d21ddf7c ""
   "resume/honors.tex" 1536082156 147 1e21b5244f3ac73d9551db28b0828697 ""
   "resume/skills.tex" 1536082560 181 744239bd59ef7d306b23c44604a97bfc ""
-  "resume/writing.tex" 1536088090 1418 feb69cd2452c422cada81e677638b4c1 ""
+  "resume/writing.tex" 1536088162 1418 6e739597133a30bf129561d9f3eff018 ""
   (generated)
   "resume.aux"
-  "resume.log"
   "resume.pdf"
   "resume.out"
+  "resume.log"

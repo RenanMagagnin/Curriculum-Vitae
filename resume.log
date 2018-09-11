@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017)  (format=lualatex 2017.5.23)  4 SEP 2018 16:08
+This is LuaTeX, Version 1.0.4 (TeX Live 2017)  (format=lualatex 2017.5.23)  10 SEP 2018 21:25
  system commands enabled.
  file:line:error style messages enabled.
 **resume.tex
@@ -23,7 +23,7 @@ Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
 Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_font_unsafe'.
 Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'.
-luaotfload | main : initialization completed in 0.360 seconds
+luaotfload | main : initialization completed in 0.237 seconds
 Babel <3.10> and hyphenation patterns for 1 language(s) loaded.
 (./awesome-cv.cls
 Document Class: awesome-cv 2015/12/14 v1.3 Awesome Curriculum Vitae Class
@@ -1071,12 +1071,12 @@ Here is how much of LuaTeX's memory you used:
  125171,662416 words of node,token memory allocated
  526 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 4 attribute, 77 glue_spec, 4 attribute_list, 1 write nodes
-   avail lists: 1:5,2:1040,3:170,4:177,5:193,6:1320,7:950,8:138,9:314,10:16,11:113
+   avail lists: 1:5,2:1040,3:170,4:177,5:193,6:1321,7:950,8:138,9:314,10:16,11:113
  25375 multiletter control sequences out of 65536+600000
  69 fonts using 17299831 bytes
  48i,11n,71p,884b,467s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2017/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf><./fonts/SourceSansPro-Light.otf><./fonts/SourceSansPro-Regular.otf><./fonts/SourceSansPro-LightIt.otf><./fonts/SourceSansPro-Bold.otf><./fonts/Roboto-Regular.ttf><./fonts/FontAwesome.otf><./fonts/Roboto-Italic.ttf><./fonts/Roboto-Bold.ttf>
-Output written on resume.pdf (1 page, 43581 bytes).
+Output written on resume.pdf (1 page, 43524 bytes).
 
 PDF statistics: 92 PDF objects out of 1000 (max. 8388607)
  61 compressed objects within 1 object stream
