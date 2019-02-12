@@ -1,7 +1,7 @@
 PWD /Users/renanmagagnin/Dropbox (DeveloperAcademy-BR)/curriculum-vitae/resume
 INPUT /usr/local/texlive/2017/texmf-var/web2c/luatex/lualatex.fmt
-INPUT ./experience.tex
-OUTPUT experience.log
+INPUT ./writing.tex
+OUTPUT writing.log
 INPUT /usr/local/texlive/2017/texmf-dist/tex/luatex/lualibs/lualibs-basic.lua
 INPUT /usr/local/texlive/2017/texmf-dist/tex/luatex/lualibs/lualibs-lua.lua
 INPUT /usr/local/texlive/2017/texmf-dist/tex/luatex/lualibs/lualibs-package.lua
