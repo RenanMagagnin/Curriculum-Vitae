@@ -1,4 +1,4 @@
-This is LuaTeX, Version 1.0.4 (TeX Live 2017)  (format=lualatex 2017.5.23)  8 JUN 2019 15:33
+This is LuaTeX, Version 1.0.4 (TeX Live 2017)  (format=lualatex 2017.5.23)  25 JUN 2019 22:09
  system commands enabled.
  file:line:error style messages enabled.
 **resume.tex
@@ -23,7 +23,7 @@ Inserting `luaotfload.aux.patch_cambria_domh' at position 2 in `luaotfload.patch
 Inserting `luaotfload.aux.fixup_fontdata' at position 1 in `luaotfload.patch_font_unsafe'.
 Inserting `luaotfload.aux.set_capheight' at position 3 in `luaotfload.patch_font'.
 Inserting `luaotfload.rewrite_fontname' at position 4 in `luaotfload.patch_font'.
-luaotfload | main : initialization completed in 0.168 seconds
+luaotfload | main : initialization completed in 0.264 seconds
 Babel <3.10> and hyphenation patterns for 1 language(s) loaded.
 (./awesome-cv.cls
 Document Class: awesome-cv 2015/12/14 v1.3 Awesome Curriculum Vitae Class
@@ -1049,34 +1049,43 @@ LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <9> not availa
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/sl' in size <8> not available
 (Font)              Font shape `TU/SourceSansPro(2)/m/it' tried instead on input line 12.
 ) (./resume/skills.tex
-Overfull \hbox (13.54326pt too wide) in alignment at lines 2--12
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 9.00014pt on input line 14.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(1)/m/n' will be
+(Font)              scaled to size 5.00008pt on input line 14.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 8.99986pt on input line 14.
+LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(2)/m/n' will be
+(Font)              scaled to size 4.99992pt on input line 14.
+
+Overfull \hbox (13.54326pt too wide) in alignment at lines 2--15
 [] []
  []
 
-) (./resume/writing.tex) (./resume/experience.tex) (./resume/honors.tex)
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 97.
+) (./resume/experience.tex) (./resume/writing.tex) (./resume/honors.tex)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 98.
  [1
 
 {/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 97.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 98.
  (./resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 97.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 97.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 98.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 98.
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 )
 
 Here is how much of LuaTeX's memory you used:
- 22166 strings out of 494481
+ 22197 strings out of 494481
  125171,662416 words of node,token memory allocated
  526 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 4 attribute, 77 glue_spec, 4 attribute_list, 1 write nodes
-   avail lists: 1:3,2:1324,3:214,4:225,5:252,6:1723,7:1210,8:191,9:405,10:18,11:131
- 25373 multiletter control sequences out of 65536+600000
- 67 fonts using 16677855 bytes
- 48i,11n,71p,884b,467s stack positions out of 5000i,500n,10000p,200000b,100000s
+   avail lists: 1:3,2:1358,3:216,4:229,5:260,6:1755,7:1229,8:194,9:414,10:18,11:132
+ 25381 multiletter control sequences out of 65536+600000
+ 76 fonts using 21726791 bytes
+ 48i,12n,71p,884b,467s stack positions out of 5000i,500n,10000p,200000b,100000s
 </usr/local/texlive/2017/texmf-dist/fonts/opentype/public/lm/lmroman10-regular.otf><./fonts/SourceSansPro-Light.otf><./fonts/SourceSansPro-Regular.otf><./fonts/SourceSansPro-LightIt.otf><./fonts/SourceSansPro-Bold.otf><./fonts/Roboto-Regular.ttf><./fonts/FontAwesome.otf><./fonts/Roboto-Italic.ttf><./fonts/Roboto-Bold.ttf>
-Output written on resume.pdf (1 page, 43623 bytes).
+Output written on resume.pdf (1 page, 44246 bytes).
 
 PDF statistics: 99 PDF objects out of 1000 (max. 8388607)
  68 compressed objects within 1 object stream
