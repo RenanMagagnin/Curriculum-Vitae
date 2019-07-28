@@ -1,1 +1,1 @@
-![](resume.png)
+![PreviewImage](resume.png)
