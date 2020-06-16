@@ -1,4 +1,4 @@
-PWD /Users/renanmagagnin/Desktop/git repos/curriculum-vitae
+PWD /Users/renanmagagnin/Developer/curriculum-vitae
 INPUT /usr/local/texlive/2017/texmf-var/web2c/luatex/lualatex.fmt
 INPUT ./resume.tex
 OUTPUT resume.log
